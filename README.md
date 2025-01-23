@@ -6,5 +6,3 @@
 
 ![Мое фото](https://i.pinimg.com/736x/39/ec/ed/39ecedef7edb8d7506dd195234a49417.jpg)
 <p style="color: green; font-weight: bold;">Ого, html тоже работает</p>
-
-Хотя нет, он работает только в редакторе кода
